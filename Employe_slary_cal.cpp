@@ -122,7 +122,7 @@ public:
 	}
 	void cal_salary()
 	{
-		cout << "commission of Employees is " << endl;
+		cout << "commission of Employeess is " << endl;
 		cout << no_of_item*per_item << endl;
 		cout << "Total salarY" << endl;
 		cout << no_of_item*per_item + salary << endl;
@@ -140,7 +140,7 @@ public:
 void detial()
 {
 	cout << "Please Enter Option " << endl;
-	cout << "1 : For salaried Employee " << endl;
+	cout << "1 : For salaried Employeess " << endl;
 	cout << "2 : For HourleY Employee " << endl;
 	cout << "3 : For Commission Employee " << endl;
 	cout << "4 : For commission_salaried Employee " << endl;
