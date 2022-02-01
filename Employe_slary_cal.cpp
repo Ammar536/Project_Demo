@@ -122,7 +122,7 @@ public:
 	}
 	void cal_salary()
 	{
-		cout << "commission of Employee is " << endl;
+		cout << "commission of Employees is " << endl;
 		cout << no_of_item*per_item << endl;
 		cout << "Total salarY" << endl;
 		cout << no_of_item*per_item + salary << endl;
