@@ -161,7 +161,7 @@ void menu()
 	cin >> option;
 	if (option == 1)
 	{
-		cout << "YOU select Fixed salaried Employee" << endl;
+		cout << "YOU select Fixed salaried Employeesssssssss" << endl;
 		cout << "Please Enter The Name OF Employee " << endl;
 		cin >> n;
 		S.set_name(n);
