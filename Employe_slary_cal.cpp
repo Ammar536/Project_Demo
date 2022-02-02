@@ -165,14 +165,14 @@ void menu()
 		cout << "Please Enter The Name OF Employee " << endl;
 		cin >> n;
 		S.set_name(n);
-		cout << "Please Enter The Age OF Employee " << endl;
+		cout << "Please Enter The Age OF Employeesss " << endl;
 		cin >> ag;
 		S.set_age(ag);
-		cout << "Please Enter The SalarY OF Employee " << endl;
+		cout << "Please Enter The SalarY OF Employeessss " << endl;
 		cin >> sal;
 		S.set_salary(sal);
 
-		cout << "You ENTER This Detail Of Employee" << endl;
+		cout << "You ENTER This Detail Of Employeessss" << endl;
 		cout << " Name:" << S.get_name() << endl;
 		cout << "Age : " << S.get_age() << endl;
 		cout << "SalarY " << S.get_salary() << endl;
