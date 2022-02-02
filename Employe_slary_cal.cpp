@@ -139,8 +139,8 @@ public:
 };
 void detial()
 {
-	cout << "Please Enter Option " << endl;
-	cout << "1 : For salaried Employeess " << endl;
+	cout << "Please Enter Optionsss " << endl;
+	cout << "1 : For salaried Employeessss " << endl;
 	cout << "2 : For HourleY Employee " << endl;
 	cout << "3 : For Commission Employee " << endl;
 	cout << "4 : For commission_salaried Employee " << endl;
