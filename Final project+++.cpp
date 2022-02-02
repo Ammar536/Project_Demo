@@ -118,7 +118,7 @@ public:
 	void update(string a, double b){
 		string n = a;
 		double Id = b;
-		cout << "Enter the updated information of teacher" << endl;
+		cout << "Enter the updated information of teachers" << endl;
 		cout << "Name :"; cin >> name;
 		cout << "Age :"; cin >> age;
 		cout << "ID :"; cin >> id;
