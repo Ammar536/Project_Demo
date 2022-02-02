@@ -15,13 +15,13 @@ public:
 	void set_Name(string N){
 		name = N;
 	}
-	string get_name(){
+	//string get_name(){
 		return name;
 	}
-	void set_age(int a){
+	//void set_age(int a){
 		age = a;
 	}
-	int get_age(){
+	//int get_age(){
 		return age;
 	}
 	void set_id(double i){
